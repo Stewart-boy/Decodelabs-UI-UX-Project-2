@@ -7,7 +7,7 @@ A low-fidelity wireframe for a full e-commerce homepage, focused on establishing
 This project was completed as Project 2 during my DecodeLabs UI/UX Design Internship Program, with a focus on layout structure, content hierarchy, and UX flow for an online storefront.
 
 🔗 View the full design board (Figma):(https://www.figma.com/design/ljXQIgbyMKNj0sklyyVdhn/Decode-Labs?node-id=0-1&t=Aqx9knmbiDWB3ysf-1)
-🖼️ View the project image: [Add your GitHub image link here]
+🖼️ View the project image:(https://github.com/Stewart-boy/Decodelabs-UI-UX-Project-2/blob/2db5486ce14ee19c3a30833e30bc5871b20bfec7/Low%20Fidelity%20Wireframe.png)
 
 📌 Project Overview
 
